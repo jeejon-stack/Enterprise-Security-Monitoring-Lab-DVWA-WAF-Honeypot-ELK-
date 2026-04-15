@@ -97,4 +97,10 @@ This lab demonstrates how organizations can:
 	•	Detect attacks using logs
 	•	Prevent attacks using WAF
 	•	Gain visibility into attacker behavior
+
+## 🚀 Future Improvements
+
+	•	Integrate alerting system (SIEM alerts)
+	•	Add IDS/IPS (e.g., Suricata)
+	•	Automate response
  
